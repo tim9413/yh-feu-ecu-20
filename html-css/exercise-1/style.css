@@ -1,0 +1,20 @@
+.name {
+    margin: 20px;
+    color: crimson;
+    background-color: yellow;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+}
+
+.intro {
+    border-style: double;
+    border-radius: 50px 20px 20px 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.button {
+    border-style: dotted;
+    border-radius: 20px;
+}
